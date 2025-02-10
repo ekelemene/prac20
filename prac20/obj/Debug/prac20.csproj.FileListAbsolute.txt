@@ -1,0 +1,7 @@
+D:\Новая папка\практикумы\prac20\bin\Debug\prac20.exe.config
+D:\Новая папка\практикумы\prac20\bin\Debug\prac20.exe
+D:\Новая папка\практикумы\prac20\bin\Debug\prac20.pdb
+D:\Новая папка\практикумы\prac20\obj\Debug\prac20.csproj.AssemblyReference.cache
+D:\Новая папка\практикумы\prac20\obj\Debug\prac20.csproj.CoreCompileInputs.cache
+D:\Новая папка\практикумы\prac20\obj\Debug\prac20.exe
+D:\Новая папка\практикумы\prac20\obj\Debug\prac20.pdb
